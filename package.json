@@ -1,0 +1,23 @@
+{
+  "name": "zootopia",
+  "version": "1.0.0",
+  "description": "A discord bot for the zootopia discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "toptecshare"
+  },
+  "keywords": [
+    "discord",
+    "zootopia"
+  ],
+  "author": "@toptecshare",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
